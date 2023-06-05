@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    position: relative;
+    width: 100%;
+    background-color: rgb(255, 102, 14);
+    box-shadow: 0px 1px 10px black;
+}
+
+.flex__for__navbar {
+    list-style-type: none;
+    display: flex;
+}
+
+.margin__for__navbar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.section__1 {
+    width: 100%;
+    height: 400px;
+    background-color: rgb(255, 102, 14);
+    color: white;
+}
+
+.link__for__section-1 {
+    text-decoration: none;
+    color: white;
+}
+
+.block__for__control {
+    padding-top: 9%;
+    padding-left: 42%;
+}
+
+.first__text {
+    margin-bottom: 30px;
+    font-size: 45px;
+}
+
+.second__text {
+    margin-left: 8%;
+}
+
+.button__for__sec-1 {
+    width: 100px;
+    height: 40px;
+    border: none;
+    background-color: black;
+    color: white;
+    margin-left: 89px;
+    margin-top: 30px;
+}
+
+.section-2 {
+    margin-top: 60px;
+    margin-bottom: 50px;
+    margin-left: 20%;
+    display: flex;
+}
+
+.sec-2__frst-text,
+.sec-3__frst-text {
+    font-size: 33px;
+}
+
+.p-sec-2,
+.p-sec-3 {
+    margin-top: 40px;
+    line-height: 21px;
+    font-weight: 600;
+}
+
+.sec-p-sect-2,
+.sec-p-sect-3 {
+    margin-top: 40px;
+    line-height: 21px;
+    color: grey;
+}
+
+.block__for-icon {
+    margin-top: 30px;
+    font-size: 150px;
+    color: rgb(255, 102, 14);
+}
+
+.section__3 {
+    width: 100%;
+    height: 370px;
+    padding-top: 60px;
+    padding-left: 20%;
+    background-color: rgb(218, 216, 216);
+    display: flex;
+}
+
+.block__for__icon__section-3 {
+    margin-top: 30px;
+    font-size: 150px;
+    color: rgb(255, 102, 14);
+    margin-right: 70px;
+}
+
+.section-4 {
+    width: 100%;
+    height: 170px;
+    background-color: rgb(77, 76, 76);
+}
+
+.t-sect-4 {
+    padding-top: 5%;
+    color: white;
+    font-weight: 100;
+    font-size: 20px;
+    text-align: center;
+    padding-left: 100px;
+}
+
+.footer {
+    width: 100%;
+    height: 230px;
+    background-color: rgb(226, 223, 223);
+}
+
+.for_icon {
+    font-size: 20px;
+}
+
+.block {
+    margin-bottom: 40px;
+    margin-left: 49%;
+    padding-top: 5%;
+}
+
+.for__text {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.link__for__section-4 {
+    margin-top: 100px;
+    text-decoration: none;
+    color: black;
+}
